@@ -49,4 +49,18 @@ h2
     font-family: myfont;
     font-size: 30px;
 }
-
+h3
+{
+    text-align: center;
+    color: white;
+    font-family: myfont;
+    font-size: 25px;
+}
+.bow
+{
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    margin: auto;
+    width: 55%;
+}
